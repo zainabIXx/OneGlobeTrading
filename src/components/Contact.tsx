@@ -53,9 +53,9 @@ const Contact = () => {
   };
 
   const contactInfo = [
-    { icon: Mail, label: "Email", value: "info@oneglobetrading.com" },
-    { icon: Phone, label: "Phone", value: "+971 XX XXX XXXX" },
-    { icon: MapPin, label: "Office", value: "Sharjah, UAE" },
+    { icon: Mail, label: "Email", value: "info@oneglobetradingfze.com" },
+    { icon: Phone, label: "Phone", value: "06-5369255 | 050-4284908 | 055-9974813" },
+    { icon: MapPin, label: "Office", value: "Saif Office Q1-04-081/C, Sharjah, UAE" },
     { icon: Clock, label: "Working Hours", value: "Mon–Sat, 8AM–5PM" },
   ];
 
